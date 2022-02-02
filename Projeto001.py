@@ -88,3 +88,4 @@ else:
     sleep(1), print(f'{empate} Empate(s)')
 
 letra('\nFIM...\n')
+
