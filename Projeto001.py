@@ -2,7 +2,6 @@ from time import sleep
 from random import randint
 from random import choice
 
-
 def letra(msm):
     for i in msm:
         sleep(0.15)
